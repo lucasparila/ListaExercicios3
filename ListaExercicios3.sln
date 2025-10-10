@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomaElementos", "ListaEercicios3\SomaElementos.csproj", "{6DB7826E-7C80-492F-B7BC-DA0B9B4CD291}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaiorMenorValor", "MaiorMenorValor\MaiorMenorValor.csproj", "{F97F2F88-D245-4403-B661-E715E5630116}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InversaoVetor", "InversaoVetor\InversaoVetor.csproj", "{3FCCCF6A-366A-4A8A-8EA8-F975496291BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoDesconto", "CalculoDesconto\CalculoDesconto.csproj", "{BD3825F6-BEE3-4BF7-86EE-42C886EFEFF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContarOcorrencias", "ContarOcorrencias\ContarOcorrencias.csproj", "{12D3F4CD-4FB2-437D-9B76-77BBD4DFAB20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdenacaoVetor", "OrdenacaoVetor\OrdenacaoVetor.csproj", "{A2F20066-FC75-496D-B034-E2E27930FB3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DB7826E-7C80-492F-B7BC-DA0B9B4CD291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB7826E-7C80-492F-B7BC-DA0B9B4CD291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB7826E-7C80-492F-B7BC-DA0B9B4CD291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB7826E-7C80-492F-B7BC-DA0B9B4CD291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F97F2F88-D245-4403-B661-E715E5630116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F97F2F88-D245-4403-B661-E715E5630116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F97F2F88-D245-4403-B661-E715E5630116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F97F2F88-D245-4403-B661-E715E5630116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FCCCF6A-366A-4A8A-8EA8-F975496291BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCCCF6A-366A-4A8A-8EA8-F975496291BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCCCF6A-366A-4A8A-8EA8-F975496291BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCCCF6A-366A-4A8A-8EA8-F975496291BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD3825F6-BEE3-4BF7-86EE-42C886EFEFF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD3825F6-BEE3-4BF7-86EE-42C886EFEFF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD3825F6-BEE3-4BF7-86EE-42C886EFEFF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD3825F6-BEE3-4BF7-86EE-42C886EFEFF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D3F4CD-4FB2-437D-9B76-77BBD4DFAB20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D3F4CD-4FB2-437D-9B76-77BBD4DFAB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D3F4CD-4FB2-437D-9B76-77BBD4DFAB20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D3F4CD-4FB2-437D-9B76-77BBD4DFAB20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2F20066-FC75-496D-B034-E2E27930FB3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F20066-FC75-496D-B034-E2E27930FB3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F20066-FC75-496D-B034-E2E27930FB3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F20066-FC75-496D-B034-E2E27930FB3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DC8C942-6DAE-4FFE-B9D2-6AA9D82F46D9}
+	EndGlobalSection
+EndGlobal
